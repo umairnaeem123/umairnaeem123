@@ -32,7 +32,7 @@ For me, data analysis is a way to identify a pattern, to detect a key problem am
 
 ---
 
-## Certification and Achievements! 👇 :octocat:
+## Certifications and Achievements! 👇 :octocat:
 
 <p  align="center"><img src = "https://github.com/umairnaeem123/umairnaeem123/blob/main/NEW%20gif.gif"></p>
 
