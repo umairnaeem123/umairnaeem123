@@ -34,6 +34,6 @@ For me, data analysis is a way to identify a pattern, to detect a key problem am
 
 ## Certification and Achievements! 👇 :octocat:
 
-<p  align="center"><img src = "https://github.com/umairnaeem123/umairnaeem123/blob/main/Cert%20GIF.gif"></p>
+<p  align="center"><img src = "https://github.com/umairnaeem123/umairnaeem123/blob/main/NEW%20gif.gif"></p>
 
 ## View My Repositories 👇
