@@ -1,11 +1,5 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 
-<br />
-
----
-
-<br />
-
 :hammer_and_wrench: I'm Umair and **I live to solve problems using analytics!** 
 
 For me, data analysis is a way to identify a pattern, to detect a key problem among outliers and to tell a valuable story to make an impact :bar_chart:.
