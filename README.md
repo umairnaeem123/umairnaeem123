@@ -11,7 +11,7 @@ For me, data analysis is a way to identify a pattern, to detect a key problem am
 ---
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-971901.svg?style=flat&logo=github)](https://github.com/umairnaeem123)
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=ndleah&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=umairnaeem123&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
 
 <a href="https://www.linkedin.com/in/umairnaeem123/">
   <img align="left" alt="Reeha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
